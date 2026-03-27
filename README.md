@@ -10,7 +10,7 @@ This cut keeps one core idea:
 
 This cut intentionally removes:
 
-- Discord integration
+- Discord and Mastodon integration
 - chat gateway and WebSocket surfaces
 - model providers and API keys
 - scheduler, memory, and multi-surface runtime state
